@@ -1,5 +1,5 @@
 # 💫 About Me:
-💫 About Me:<br>• 🔭 I'm currently exploring new opportunities and building personal projects in web development & design  <br>• 👯 I'm looking to collaborate on full-stack development and UI/UX design projects  <br>• 🤝 I'm looking for help with improving backend development and real-world scalability  <br>• 🌱 I'm currently learning advanced backend technologies and AI-driven development  <br>• 💬 Ask me about frontend development, graphic design, and UI/UX design  <br>• ⚡ Fun fact I combine development, design, and AI to build complete and visually engaging solutions
+💫 About Me:<br>• 🔭 I'm currently exploring new opportunities and building personal projects in web development & design  <br>• 👯 I'm looking to collaborate on full-stack development and UI/UX design projects  <br>• 🤝 I'm looking for help with improving backend development and real-world scalability  <br>• 🌱 I'm currently learning advanced backend technologies and AI-driven development  <br>• 💬 Ask me about frontend development, graphic design, and UI/UX design  <br>• ⚡ Fun fact I combine development, design, and AI to build complete and visually engaging solutions.
 
 
 ## 🌐 Socials:
