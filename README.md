@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20there,%20I'm%20Hit%20Zalavadiya%20%F0%9F%91%8B&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20UI/UX%20Designer%20%C2%B7%20AI-Driven%20Builder&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20there,%20I%20am%20Hit%20Zalavadiya&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20UI/UX%20Designer%20%7C%20AI-Driven%20Builder&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <p align="center">
   <a href="https://linkedin.com/in/hit-zalavadiya-53a9093a0">
@@ -100,14 +100,18 @@
 
 ### 📫 Let's Connect
 
-<p align="center">
-  <img src="./assets/glass-connect.svg" alt="Let's Connect" width="100%"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Lets%20Connect&fontSize=32&fontColor=ffffff&fontAlignY=42&desc=Always%20open%20for%20collaborations%20and%20new%20ideas&descAlignY=62&descSize=16&animation=fadeIn" width="100%"/>
 
 <p align="center">
-  <a href="https://linkedin.com/in/hit-zalavadiya-53a9093a0">LinkedIn</a> ·
-  <a href="mailto:zalavadiyahit19@gmail.com">Email</a> ·
-  <a href="https://portfoliohit.netlify.app/">Portfolio</a>
+  <a href="https://linkedin.com/in/hit-zalavadiya-53a9093a0">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:zalavadiyahit19@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://portfoliohit.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00C7B7&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
